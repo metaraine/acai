@@ -3,7 +3,7 @@
 js-to-source-to-js transpiler
 
 ## What is acai?
-acai is Javascript without curly braces, plus a few other syntax enhancements. Unlike other transpilers, is meant to be read in from vanilla js and output code that is indistinguishable from hand-written js. This allows you to use the cleaner syntax while working on any vanilla js and it's great for contributing to vanilla js open source libraries.
+acai is Javascript without curly braces, plus a few other syntax enhancements. Unlike other transpilers, acai is meant to be read in from vanilla js and output code that is indistinguishable from hand-written js. This allows you to use the cleaner syntax while working on any vanilla js and it's great for contributing to vanilla js open source libraries.
 
 1. Open vanilla js
 2. Edit as acai
